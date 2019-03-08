@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "django.snippets.use": false,
+    "python.pythonPath": "/home/tavitum/.virtualenvs/django/bin/python3",
+    "python.venvPath": "/home/tavitum/.virtualenvs",
+    "python.linting.pylintEnabled": true,
+}
